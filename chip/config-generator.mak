@@ -1,4 +1,4 @@
-#CHIPLAB_HOME="your chiplab pwd address"
+CHIPLAB_HOME="/home/cyh/loongarch32r-cpu"
 CURRENT_DESIGN_TOP=soc_demo
 SOC_TOP_NAME=soc_top
 TOP_SOC_SRC=${CHIPLAB_HOME}/chip/${CURRENT_DESIGN_TOP}/sim
